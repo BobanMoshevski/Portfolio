@@ -1,0 +1,27 @@
+.about {
+  display: flex;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.8));
+  min-height: 100vh;
+}
+
+.about-wrapper {
+  color: white;
+  text-align: center;
+}
+
+.about-wrapper img {
+  height: 280px;
+  width: 280px;
+  border-radius: 50%;
+}
+
+.about-wrapper p {
+  text-align: left;
+}
+
+@media screen and (max-width: 769px) {
+  .about-wrapper img {
+    height: 180px;
+    width: 180px;
+  }
+}

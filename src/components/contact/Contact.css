@@ -1,0 +1,23 @@
+.contact {
+  color: white;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.8));
+  min-height: 100vh;
+}
+
+.contact h3 {
+  text-align: center;
+  margin-top: 0;
+  padding-top: 80px;
+}
+
+.icons {
+  color: #fff;
+}
+
+.icons:hover {
+  color: #333;
+}
+
+svg.css-i4bv87-MuiSvgIcon-root {
+  font-size: 3rem;
+}

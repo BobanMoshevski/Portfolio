@@ -1,0 +1,17 @@
+.home-wrapper {
+  background-image: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.8),
+      rgba(0, 0, 0, 0.8)
+    ),
+    url("https://thumbs.dreamstime.com/b/web-development-concept-technology-light-background-web-development-concept-technology-blurred-abstract-light-background-175204563.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

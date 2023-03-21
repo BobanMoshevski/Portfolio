@@ -1,0 +1,21 @@
+.nav-links {
+  list-style: none;
+  padding-left: 0;
+}
+
+.nav-links .nav-item {
+  display: inline-block;
+  padding: 5px;
+}
+
+.nav-links .nav-item .nav-link {
+  cursor: pointer;
+}
+
+.nav-item .active {
+  color: #111;
+}
+
+.nav-links .nav-item .nav-link:hover {
+  color: #333;
+}
